@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   {{>header}}
+   
+</head>
+<body>
+  {{>navbar}}
+
+    <section id="page-header" class="about-header">
+        
+        <h2 style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">FEEDBACK</h2>
+        
+        <p style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">LEAVE A MESSAGE. We love to hear from you! </p>
+        
+    </section>
+
+    <section id="contact-details" class="section-p1">
+        <div class="details">
+            <span>GET IN TOUCH</span>
+            <H2> Visit  our store or contact us today</H2>
+                <h3>WE HAVE ONLY ONE BRANCH</h3>
+                <div>
+                    <li>
+                        <i class="fa-solid fa-map-location-dot"></i>
+                        <p>A-101 Pritampura , sector-15 </p>
+                    </li>
+
+                    <li>
+                        <i class="fa-solid fa-envelope"></i>
+                        <p>AbhishekJewellers@gmail.com</p>
+                    </li>
+                  
+
+                    <li>
+                        <i class="fa-solid fa-clock"></i>
+                        <p> Monday to saturday: 9.00am to 16.pm</p>
+                    </li>
+                </div>
+        </div>
+         <img src="/images/neck.jpg" alt="">
+    </section>
+
+    <section id="form-details">
+        <form action="/contact" method="POST">
+            <span>LEAVE A MESSAGE</span>
+            <h2>We love to hear from you</h2>
+            <input type="text" placeholder="Your Name" value="" name="cName" />
+            <input type="text" placeholder="E-mail" value="" name="cEmail" />
+            <input type="text" placeholder="Subject" value="" name="cSubject"/>
+            <textarea name="cMessage" id="" cols="10" rows="10" placeholder="Your Message" value=""></textarea>
+            <input type="submit" value="Contact"/>
+        </form>
+
+       
+    </section>
+    
+   
+   
+    <section id="newsletter" class="section-p1 section-m1">
+        <div class="newstext">
+            <h4>Sign Up For Newsletters</h4>
+            <p>Get E-mail updates about our latest shop and <span> special offers </span> </p>
+        </div>
+
+        <div class="form">
+            <input type="text" placeholder="Your email address" >
+            <button class="normal">Sign Up</button>
+        </div>
+    </section>
+
+        {{>footer}}
+
+        <script src="script.js"></script>
+</body>
+</html >
