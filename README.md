@@ -24,4 +24,10 @@ We will add features like offers and discounts to attract more customers on our 
 
 **1.3 LOGIN**
 
+![login](https://user-images.githubusercontent.com/84338091/200986131-dc8b0b0f-f3ce-447e-802a-3e2e4c237193.png)
+
+**1.4 SHOPPING CART**
+
+
+
 
