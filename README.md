@@ -28,9 +28,7 @@ We will add features like offers and discounts to attract more customers on our 
 
 **This section of website allows user to register as user of website and allows them to purchase products as well as explore all the products.**
 
--	Customer make their account
-
--	Adding info about them like
+**-	Customer make their Account by adding info about them like**
   -	Full Name
   -	Username
   -	Email
@@ -44,9 +42,18 @@ We will add features like offers and discounts to attract more customers on our 
 
 ![login](https://user-images.githubusercontent.com/84338091/200986131-dc8b0b0f-f3ce-447e-802a-3e2e4c237193.png)
 
+**Log In is done by those customers who have signed up or are already registered themselves and want to Sign In again. Their account is running with the website. They can login ample number of times without any restrictions.**
+
+**Customers use their email & password to login to the website.**
+
+
+
 **1.4 SHOPPING CART**
 
 ![Shopping Cart](https://user-images.githubusercontent.com/84338091/200986335-b98fdaef-4571-49c8-8a5b-3ff681d8e9a0.png)
+
+**Shopping Cart feature allows registered users to add the items they like or they want to purchase in a virtual cart. Cart will give customer the sum amount they liked. Customer can delete or add more items accordingly. It is the wish-list in other words. After adding to cart customer can proceed purchasing from there.**
+
 
 **1.6 ABOUT US**
 
