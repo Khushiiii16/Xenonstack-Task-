@@ -34,7 +34,9 @@ We will add features like offers and discounts to attract more customers on our 
 
 ![About us](https://user-images.githubusercontent.com/84338091/200986811-10f07a20-4e4d-4419-a555-c4570bdbfe17.png)
 
-** CONTACT**
+**1.7 CONTACT**
+
+![Contact](https://user-images.githubusercontent.com/84338091/200987071-a0669bcb-41de-4280-82e9-45e22fd5f7d5.png)
 
 
 
