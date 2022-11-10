@@ -18,25 +18,26 @@ We will add features like offers and discounts to attract more customers on our 
 
 ![home page](https://user-images.githubusercontent.com/84338091/200984508-f120ad60-471e-4b36-a17b-dd9ffb4b3b9f.jpeg)
 
-Homepage is the first page of the website. User first interact with this page and start exploring the whole website.
+**Homepage is the first page of the website. User first interact with this page and start exploring the whole website.**
 
-Homepage contains all the latest and trendy products.
+**Homepage contains all the latest and trendy products.**
 
 **1.2 SIGNUP**
 
 ![signup](https://user-images.githubusercontent.com/84338091/200985230-2de08cff-b678-4f26-9cc6-6c0af9741348.png)
 
-This section of website allows user to register as user of website and allows them to purchase products as well as explore all the products.
+**This section of website allows user to register as user of website and allows them to purchase products as well as explore all the products.**
 
-•	Customer make their account
-•	Adding info about them like
-•	Full Name
-•	Username
-•	Email
-•	Phone number 
-•	Gender
-•	Password
-•	Confirm Password
+-	Customer make their account
+
+-	Adding info about them like
+  -	Full Name
+  -	Username
+  -	Email
+  -	Phone number 
+  -	Gender
+  -	Password
+  -	Confirm Password
 
 
 **1.3 LOGIN**
