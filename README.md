@@ -32,6 +32,12 @@ We will add features like offers and discounts to attract more customers on our 
 
 **1.6 ABOUT US**
 
+![About us](https://user-images.githubusercontent.com/84338091/200986811-10f07a20-4e4d-4419-a555-c4570bdbfe17.png)
+
+** CONTACT**
+
+
+
 
 
 
