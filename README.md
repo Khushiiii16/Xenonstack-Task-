@@ -8,8 +8,10 @@ We will add features like offers and discounts to attract more customers on our 
 
 **There are several Objectives of this website are as follows:**
 
--	Our website gives all the information about the e-shopping to provide best service to the customer.
+- 	Our website gives all the information about the e-shopping to provide best service to the customer.
 
 -	Site provides the facility to the customers who want to shop online due to lack of time.
 
 -	Site is providing the complete details the product and related information about the product
+
+**1.1 HOME**
