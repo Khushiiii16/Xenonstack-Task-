@@ -17,3 +17,7 @@ We will add features like offers and discounts to attract more customers on our 
 **1.1 HOME**
 
 ![home page](https://user-images.githubusercontent.com/84338091/200984508-f120ad60-471e-4b36-a17b-dd9ffb4b3b9f.jpeg)
+
+**1.2 SIGNUP**
+
+
