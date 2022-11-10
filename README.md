@@ -28,6 +28,12 @@ We will add features like offers and discounts to attract more customers on our 
 
 **1.4 SHOPPING CART**
 
+![Shopping Cart](https://user-images.githubusercontent.com/84338091/200986335-b98fdaef-4571-49c8-8a5b-3ff681d8e9a0.png)
+
+**1.6 ABOUT US**
+
+
+
 
 
 
