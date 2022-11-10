@@ -22,4 +22,6 @@ We will add features like offers and discounts to attract more customers on our 
 
 ![signup](https://user-images.githubusercontent.com/84338091/200985230-2de08cff-b678-4f26-9cc6-6c0af9741348.png)
 
+**1.3 LOGIN**
+
 
